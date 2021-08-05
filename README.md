@@ -14,7 +14,7 @@
 - 🤔 I’m looking for **Remote jobs related to my skillset**
 
 - 💬 Ask me about anything programming, im looking to hear from you guys
-- 📫 How to reach me **subham.raoniar@gmail.com**
+- 📫 How to reach me **unekwenchekwube@gmail.com**
 
 - 😄 Pronouns: He
 
