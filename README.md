@@ -33,7 +33,9 @@
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://flask-doc.readthedocs.io/en/latest/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="postman" width="45" height="45"/> </a>   
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="postman" width="45" height="45"/> </a>     
+    <a href="https://flask-doc.readthedocs.io/en/latest/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="postman" width="55" height="55"/> </a>   
+    <a href="https://www.php.net/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="postman" width="55" height="55"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
@@ -43,8 +45,8 @@
 ## 📊 My Stats on Github
 
   <br/>
-    <a href="https://github.com/Nchekwube1/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nchekwube1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Nchekwube1/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nchekwube1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Nchekwube1/github-readme-stats"><img alt="Francis' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nchekwube1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Nchekwube1/github-readme-stats"><img alt="Francis' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nchekwube1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level
 
@@ -55,3 +57,19 @@
 
 <br/>
 <br/>
+
+## Connect with me:
+
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/unekwe-francis-56485b1ba/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/FrancisUnekwe"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+
+</p>
+
+## ❤ Views and Followers
+
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Nchekwube1">
+</a>
+<a href="https://github.com/Nchekwube1?tab=followers"><img src="https://img.shields.io/github/followers/Nchekwube1?label=Followers&style=social" alt="GitHub Badge"></a>
