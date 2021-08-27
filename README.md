@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on building a url-shortner app
+- 🔭 I’m currently working on building a text-to-speech converter app
 
 - 🌱 I’m currently learning everything (almost) 🤣
 
