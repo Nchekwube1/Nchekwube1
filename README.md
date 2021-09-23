@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently exploring the beauty of graphql
 
-- 🌱 I’m currently learning everything (almost) 🤣
+- 🌱 Trying to learn everything (almost) 🤣
 
 - 👯 I’m looking to collaborate with **other content creators**
 
