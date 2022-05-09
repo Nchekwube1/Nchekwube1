@@ -5,9 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently exploring the beauty of graphql
-
-- 🌱 Trying to learn everything (almost) 🤣
+- 🔭 I’m currently learning kotlin
 
 - 👯 I’m looking to collaborate with **other content creators**
 
