@@ -52,7 +52,7 @@
     <a href="https://github.com/Nchekwube1/github-readme-stats"><img alt="Francis' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nchekwube1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Nchekwube1/github-readme-stats"><img alt="Francis' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nchekwube1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level
+  <b>Note:</b> The top languages shown here is just a measure of what i have pushed here on Github and not a measure of my actual skill level
 
   <br/>
 <br/>
